@@ -1,7 +1,7 @@
 # donbasdissertation
 The python scripts added to this repository act as the second step in the process of my dissertation project. 
 The first step was carried out in google earth engine, using sentinel-2 and landsat 8 data to detect water bodies contaminated with acid mine drainage 
-in the occupied Donbas, and how they change over time. 
+in the occupied Donbas, and monitor how they change over time. 
 
 The Acid Mine Water Index (a normalised difference of bands 2 and 4), is tested for its use detecting AMD in a case where no ground-truth data is available.
 
