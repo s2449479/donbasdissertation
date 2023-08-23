@@ -8,9 +8,7 @@ The Acid Mine Water Index (a normalised difference of bands 2 and 4), is tested 
 The scripts below take Sentinel-2 imagery, and build a nested collection of 'contaminated' polygons feature collections, 
 derived from  images in an image collection. These are then flattened into one collection, and using an id tag created, are counted across time.
 
-Unfortunately, due to the prevelance of false positives and ambiguity with the index, counting contaminated bodies over time was not possible. 
-
-The method was successful at identifying which bodies were repeatedly and heavily contaminated.
+Unfortunately, due to the prevelance of false positives and ambiguity with the index, counting contaminated bodies over time was not successful.  The method was successful at identifying which bodies were repeatedly and heavily contaminated.
 
 STEP 1 https://code.earthengine.google.com/c8bda1a3d01b12dd5d0f07a651def118
 STEP 2 https://code.earthengine.google.com/0050e3b6304464be17e96165713437aa
